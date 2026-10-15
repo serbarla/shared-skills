@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dioxus-knowledge-patch",
+  "owner": "nevaberry",
+  "repo": "nevaberry-plugins",
+  "path": "plugins/knowledge-patch/patches-claude/dioxus-knowledge-patch",
+  "branch": "main",
+  "sha": "57dafd6186cc5596bc6f4539454d982e55cb1532",
+  "source": "manual"
+}
